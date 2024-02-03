@@ -1,0 +1,1 @@
+/ (contIdade - 1)
